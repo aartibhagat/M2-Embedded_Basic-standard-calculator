@@ -33,9 +33,9 @@ Mostly used in vehicles to make sure that the equipments used are working effici
 
 **Strength:**
 
--Temperature modification can be done easily.
--Cost effective.
--Heat generation is fast.
+- Temperature modification can be done easily.
+- Cost effective.
+- Heat generation is fast.
 
 **Weakness:**
 - Need dry bags to store the heater.
