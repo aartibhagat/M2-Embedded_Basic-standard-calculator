@@ -1,4 +1,5 @@
-## High Level Requirements
+## Structural Diagram
+![struc dia](https://user-images.githubusercontent.com/94475720/144433872-2cb18139-997c-4a79-af69-67c60b78bd4e.png)
 
 ## High Level 
 
