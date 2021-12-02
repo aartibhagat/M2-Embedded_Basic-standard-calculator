@@ -1,4 +1,4 @@
 ## Block Diagram
-![](https://github.com/gauri2323/M2-Embedded_Temperature_Measurement_System/blob/main/6_ImagesAndVideos/BD.png?raw=true)
+![BD](https://user-images.githubusercontent.com/94475720/144432864-3ea2fc47-c95b-434e-b9e3-22f47cfa7156.png)
 
 
