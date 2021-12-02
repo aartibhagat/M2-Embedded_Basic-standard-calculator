@@ -64,3 +64,6 @@ By installing the system in vehicles.
 | LLR1 | ADC with Pulse Width Modulation.| 
 | LLR2 | Compatible on different Operating Systems. |
 
+## Block Diagram
+![BD](https://user-images.githubusercontent.com/94475720/144432864-3ea2fc47-c95b-434e-b9e3-22f47cfa7156.png)
+
