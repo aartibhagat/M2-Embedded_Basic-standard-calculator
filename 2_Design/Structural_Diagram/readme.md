@@ -1,7 +1,7 @@
 ## Structural Diagram
 ![struc dia](https://user-images.githubusercontent.com/94475720/144433872-2cb18139-997c-4a79-af69-67c60b78bd4e.png)
 
-## High Level 
+## High Level Requirements 
 
 | ID             | Description                                                           |
 | ----------------- | ------------------------------------------------------------------ |
@@ -9,7 +9,7 @@
 | HLR2 |Check is heater temp. is equal t passanger temperature if no set the temperature and then display it.|
 
 
-## Low Level 
+## Low Level Requirements
 
 | ID             | Description                                                           |
 | ----------------- | ------------------------------------------------------------------ |
