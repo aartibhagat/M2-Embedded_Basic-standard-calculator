@@ -1,6 +1,6 @@
 # **Introduction:**
 
-The temperature measurement system is used to measure and control the temperature.It has been implemented by using Atmega32 in a simulation software named SimulIDE using Embedded C.
+The temperature measurement system is used to measure and control the temperature.It has been implemented by using Atmega328 in a simulation software named SimulIDE using Embedded C. We can install this system in the vehicles to control the temperature in it. Each subsystem within an Electric Vehicle (EV) requires temperature monitoring. On board charger, DC/DC converter and Inverter/motor control require safe and efficient control to protect the power switch (MOSFET/IGBT/SiC). Battery management systems (BMS) also require fine resolution of temperature measurement on cell level. The one component that must be accurate at extreme temperatures in order to protect the system is no doubt the temperature sensor. Accurate temperature information allows the processor to temperature-compensate the system so that the electronic modules can optimize their performance and maximize their reliability no matter the driving conditions. This includes temperature sensing of power switches, power magnetic components, heat sinks, PCB, etc. Temperature data also helps to run cooling system in a controlled manner.
 
 # **Research:**
 
